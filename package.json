@@ -1,0 +1,16 @@
+{
+  "name": "systemorder",
+  "version": "1.0.0",
+  "description": "Sistema de pedidos para restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1"
+  }
+}
