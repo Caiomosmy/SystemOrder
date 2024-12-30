@@ -6,6 +6,7 @@ Detalhamento: Arquivos estáticos não relacionados ao código funcional da apli
 /components/ (View)
 Objetivo: Armazenar componentes reutilizáveis, como botões, formulários, tabelas, etc.
 Exemplo: Um botão que pode ser usado em várias páginas ou uma tabela de dados reutilizável.
+
 Detalhamento: Cada componente deve ser autocontido com seus próprios arquivos de HTML, CSS e JavaScript, garantindo que possa ser facilmente importado e utilizado em diferentes partes da aplicação.
 
 /tests/
